@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images_url">
+        <item>http://img0.178.com/hex/201502/217810468638/217810481694.jpg</item>
+        <item>http://img2.178.com/hex/201502/217810468638/217810481757.jpg</item>
+        <item>http://img4.178.com/hex/201502/217810468638/217810481663.jpg</item>
+        <item>http://img4.178.com/hex/201502/217810468638/217810481739.jpg</item>
+        <item>http://img4.178.com/hex/201502/217810468638/217810481613.jpg</item>
+        <item>http://img0.178.com/hex/201502/217810468638/217810481707.jpg</item>
+        <item>http://img5.178.com/hex/201502/217810468638/217810481682.jpg</item>
+        <item>http://img0.178.com/hex/201502/217810468638/217810481588.jpg</item>
+        <item>http://img2.178.com/hex/201502/217810468638/217810481601.jpg</item>
+        <item>http://img5.178.com/hex/201502/217810468638/217810481607.jpg</item>
+        <item>http://img1.178.com/hex/201502/217810468638/217810481620.jpg</item>
+        <item>http://img0.178.com/hex/201502/217810468638/217810481626.jpg</item>
+        <item>http://img1.178.com/hex/201502/217810468638/217810481638.jpg</item>
+        <item>http://img4.178.com/hex/201502/217810468638/217810481645.jpg</item>
+        <item>http://img2.178.com/hex/201502/217810468638/217810481751.jpg</item>
+        <item>http://img2.178.com/hex/201502/217810468638/217810481713.jpg</item>
+        <item>http://img1.178.com/hex/201502/217810468638/217810481700.jpg</item>
+        <item>http://img1.178.com/hex/201502/217810468638/217810481745.jpg</item>
+    </array>
+    <array name="months_chines">
+        <item>一月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </array>
+</resources>
